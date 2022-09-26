@@ -25,9 +25,9 @@ function greeting()
 // and will return accurate boolean data depending on the value
 // of the "number" parameter. Hint: Try the modulus operator.
 
-function divisibleByThree(n)
+function divisibleByThree(number)
 {
-    return n % 3 == 0;
+    return number % 3 == 0;
 }
 
 // 4) Create a function named averageAge that accepts 3 parameters:
